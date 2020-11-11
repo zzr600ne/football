@@ -5,6 +5,7 @@ Football. <br> It was created by the Google Brain team for research purposes.
 
 Useful links:
 
+
 * __(NEW!)__ [GRF Kaggle competition](https://www.kaggle.com/c/google-football) - take part in the competition playing games against others, win prizes and become the GRF Champion!
 * [GRF Game Server](https://research-football.dev/) - challenge other researchers (replaced by GRF Kaggle competition, frozen ranking available).
 * [Run in Colab](https://colab.research.google.com/github/google-research/football/blob/master/gfootball/colabs/gfootball_example_from_prebuild.ipynb) - start training in less that 2 minutes.
@@ -21,6 +22,7 @@ We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the
 
 
 ## Quick Start
+
 
 ### In colab
 
